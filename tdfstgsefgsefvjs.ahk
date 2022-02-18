@@ -1,4 +1,4 @@
 #SingleInstance, Force
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
-;COMMENT HOTFIX2
+;COMMENT FEATURE
