@@ -2,3 +2,4 @@
 SendMode Input
 SetWorkingDir, %A_ScriptDir%
 ;COMMENT HOTFIX23
+;commit
